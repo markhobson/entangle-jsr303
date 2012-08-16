@@ -11,7 +11,7 @@ import javax.validation.ConstraintViolation;
 import javax.validation.Validation;
 import javax.validation.ValidatorFactory;
 
-import uk.co.iizuka.common.binding.Validator;
+import org.hobsoft.entangle.Validator;
 
 /**
  * 

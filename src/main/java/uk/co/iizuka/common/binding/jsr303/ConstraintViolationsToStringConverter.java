@@ -9,7 +9,7 @@ import java.util.Collection;
 
 import javax.validation.ConstraintViolation;
 
-import uk.co.iizuka.common.binding.Converter;
+import org.hobsoft.entangle.Converter;
 
 /**
  * 
