@@ -53,7 +53,6 @@ public final class Jsr303Validators
 	{
 		return new Validator<Object, ConstraintViolation<T>>()
 		{
-			@Override
 			public Set<ConstraintViolation<T>> validate(Object value)
 			{
 				return getValidator().validateValue(beanType, propertyName, value);

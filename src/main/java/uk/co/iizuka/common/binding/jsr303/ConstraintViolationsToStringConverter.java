@@ -24,7 +24,6 @@ class ConstraintViolationsToStringConverter implements Converter<Collection<Cons
 	/**
 	 * {@inheritDoc}
 	 */
-	@Override
 	public String convert(Collection<ConstraintViolation<?>> violations)
 	{
 		if (violations == null)
@@ -50,7 +49,6 @@ class ConstraintViolationsToStringConverter implements Converter<Collection<Cons
 	/**
 	 * {@inheritDoc}
 	 */
-	@Override
 	public Collection<ConstraintViolation<?>> unconvert(String string)
 	{
 		throw new UnsupportedOperationException();
