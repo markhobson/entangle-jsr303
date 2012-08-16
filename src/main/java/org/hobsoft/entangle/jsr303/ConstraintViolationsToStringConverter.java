@@ -23,7 +23,6 @@ import org.hobsoft.entangle.Converter;
  * 
  * 
  * @author Mark Hobson
- * @version $Id: ConstraintViolationsToStringConverter.java 101060 2012-05-03 13:40:20Z mark@IIZUKA.CO.UK $
  */
 class ConstraintViolationsToStringConverter implements Converter<Collection<ConstraintViolation<?>>, String>
 {

@@ -25,7 +25,6 @@ import org.hobsoft.entangle.Validator;
  * 
  * 
  * @author Mark Hobson
- * @version $Id: Jsr303Validators.java 101063 2012-05-03 14:10:47Z mark@IIZUKA.CO.UK $
  */
 public final class Jsr303Validators
 {

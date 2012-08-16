@@ -23,7 +23,6 @@ import org.hobsoft.entangle.Converter;
  * 
  * 
  * @author Mark Hobson
- * @version $Id: Jsr303Converters.java 101060 2012-05-03 13:40:20Z mark@IIZUKA.CO.UK $
  */
 public final class Jsr303Converters
 {
