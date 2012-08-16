@@ -28,12 +28,20 @@
 	<version>0.1.0-SNAPSHOT</version>
 	
 	<name>Entangle JSR 303 Integration</name>
+	<description>Entangle support for JSR 303.</description>
+	<url>https://github.com/markhobson/entangle-jsr303</url>
+	<inceptionYear>2011</inceptionYear>
 	
 	<scm>
 		<connection>scm:git:git@github.com:markhobson/entangle-jsr303.git</connection>
 		<developerConnection>scm:git:git@github.com:markhobson/entangle-jsr303.git</developerConnection>
 		<url>https://github.com/markhobson/entangle-jsr303</url>
 	</scm>
+	
+	<issueManagement>
+		<system>GitHub</system>
+		<url>https://github.com/markhobson/entangle-jsr303/issues</url>
+	</issueManagement>
 	
 	<dependencies>
 	
@@ -51,4 +59,12 @@
 	
 	</dependencies>
 
+	<distributionManagement>
+		<site>
+			<id>github-site</id>
+			<name>Entangle JSR 303 Maven Site</name>
+			<url>gitsite:git@github.com/markhobson/entangle-jsr303.git</url>
+		</site>
+	</distributionManagement>
+	
 </project>
