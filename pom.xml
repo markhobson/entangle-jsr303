@@ -79,9 +79,9 @@
 
 	<distributionManagement>
 		<site>
-			<id>github-site</id>
+			<id>site</id>
 			<name>Entangle JSR 303 Maven Site</name>
-			<url>gitsite:git@github.com/markhobson/entangle-jsr303.git</url>
+			<url>scm:git:git@github.com:markhobson/entangle-jsr303.git</url>
 		</site>
 	</distributionManagement>
 	
