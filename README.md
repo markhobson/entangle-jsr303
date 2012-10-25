@@ -1,5 +1,5 @@
-entangle-jsr303
-===============
+Entangle JSR 303
+================
 
 Entangle support for [JSR 303](http://jcp.org/en/jsr/detail?id=303).
 
