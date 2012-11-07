@@ -24,7 +24,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<artifactId>entangle-jsr303</artifactId>
 	<packaging>jar</packaging>
-	<version>0.1.0</version>
+	<version>0.1.1-SNAPSHOT</version>
 	
 	<name>Entangle JSR 303 Integration</name>
 	<description>Entangle support for JSR 303.</description>
@@ -34,7 +34,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:markhobson/entangle-jsr303.git</connection>
 		<developerConnection>scm:git:git@github.com:markhobson/entangle-jsr303.git</developerConnection>
-		<tag>0.1.0</tag>
+		<tag>HEAD</tag>
 		<url>https://github.com/markhobson/entangle-jsr303</url>
 	</scm>
 	
